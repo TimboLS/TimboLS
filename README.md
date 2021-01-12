@@ -15,6 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)](mailto:timbodg@gmail.com)
 
 
-### Dato Curioso: Fotografía y edición de videos
+### Dato Curioso: 
+- Fotografía y edición de videos
 
 ⭐️ From [TimboLS](https://github.com/TimboLS)
