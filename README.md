@@ -3,7 +3,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- ✅ Soy programador.
+- ✅ Soy desarrollador.
 - 🎓 Soy diseñador gráfico.
 - 📚 Estoy terminando la carrera de Licenciatura en Sistemas de la información (UNNE).
 - ⚡ Tengo conocimiento en UI/UX.
