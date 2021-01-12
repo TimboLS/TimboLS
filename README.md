@@ -17,4 +17,4 @@
 
 ### Dato Curioso: Fotografía y edición de videos
 
-⭐️ From [mmphego](https://github.com/TimboLS)
+⭐️ From [TimboLS](https://github.com/TimboLS)
