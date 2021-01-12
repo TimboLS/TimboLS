@@ -9,7 +9,6 @@
 - ⚡ Tengo conocimiento en UI/UX.
 - 🌱 Actualmente estoy trabajando en diseño web.
 - 👨🏽‍💻  Me apasiona el diseño front-end y la cyberseguridad.
-- 📝 Puedes ver mi  [curriculum](https://drive.google.com/file/d/1FTCkOMukrfcah6kb6bSJOvSCEe69Pw2y/view?usp=sharing)
 - 💪🏼 ¡Preguntame lo que quieras!
 - 💬 Puedes comunicarte conmigo en los siguientes enlaces: 
 
