@@ -20,7 +20,9 @@
 
 ### Programa de diseño gráfico:
 
+
 <h3 align="center">
+  
 <img src="https://drive.google.com/file/d/1QQe7ntAn72GyXKOiQitn8qQ0MJ-s2SnI/view?usp=sharing" />
 </h3>
 
