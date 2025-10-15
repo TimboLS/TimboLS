@@ -41,7 +41,7 @@
 <h3 align="center">🧰 Tecnologías y Herramientas</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nodejs,html,css,js,ts,tailwind,sqlserver,git,github,figma,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nodejs,html,css,js,sqlserver,git,github,figma,vscode,visualstudio" />
 </p>
 
 ---
