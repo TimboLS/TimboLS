@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>Leonardo Sánchez</strong></h1>
+<h1 align="center">👋 ¡Hola! Soy <strong>Leonardo Sanchez</strong></h1>
 
 <p align="center">
   <em>Desarrollador Full-Stack (.NET Framework + React) | ASP.NET WebForms / MVC, Web API 2, SQL Server, IIS</em>
